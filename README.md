@@ -19,4 +19,4 @@ Rooted in the principles of absolute precision and zero digital clutter, we engi
 
 ---
 
-📥 **Contact:** [hello@sifrox.dev](mailto:sifroxdev@gmail.com)
+📥 **Contact:** [sifroxdev@gmail.com](mailto:sifroxdev@gmail.com)
